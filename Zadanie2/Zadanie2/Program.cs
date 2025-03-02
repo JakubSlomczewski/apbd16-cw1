@@ -2,3 +2,6 @@
 Console.WriteLine("Hello");
 Console.WriteLine("PJATK");
 Console.WriteLine("Edu");
+Console.WriteLine("Hello");
+Console.WriteLine("PJATK");
+Console.WriteLine("Edu");
