@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 
 int[] arr = { 1, 2, 3, 4, 5 };
 
-static double GetAverage(int[] numbers)
+static double GetAverageNewZadanie5(int[] numbers)
 {
     double sum = 0;
     foreach (int number in numbers)
@@ -15,4 +15,4 @@ static double GetAverage(int[] numbers)
 
 
 
-Console.WriteLine("srednia liczb z listy: " + GetAverage(arr));
+Console.WriteLine("srednia liczb z listy: " + GetAverageNewZadanie5(arr));
